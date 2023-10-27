@@ -1,7 +1,7 @@
 Integrantes da equipe:
 
-Mateus Scherreier Krupa /
+Mateus Scherreier Krupa
 
-Gustavo Henrique Soares dos Santos /
+Gustavo Henrique Soares dos Santos
 
 Tito Claudio de Andrade Silva 
